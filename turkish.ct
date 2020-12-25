@@ -1,10 +1,10 @@
 ## version $VER: prefswindow.catalog 1.0 (23.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
 MSG_TEST
-_SÄ±na
+_Sýna
 ; _Test
 ;
 MSG_REVERT
@@ -20,6 +20,6 @@ K_ullan
 ; _Use
 ;
 MSG_CANCEL
-_VazgeÃ§
+_Vazgeç
 ; _Cancel
 ;

@@ -4,11 +4,11 @@
 ;
 MSG_TEST
 _Kokeile
-; Test
+; _Test
 ;
 MSG_REVERT
 P_alauta
-; Revert
+; _Revert
 ;
 MSG_SAVE
 _Tallenna
@@ -16,9 +16,9 @@ _Tallenna
 ; Save
 MSG_USE
 _Käytä
-; Use
+; _Use
 ;
 MSG_CANCEL
 _Peru
-; Cancel
+; _Cancel
 ;

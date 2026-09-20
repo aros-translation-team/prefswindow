@@ -4,11 +4,11 @@
 ;
 MSG_TEST
 _Tester
-; Test
+; _Test
 ;
 MSG_REVERT
 _Restaurer
-; Revert
+; _Revert
 ;
 MSG_SAVE
 _Sauver
@@ -16,9 +16,9 @@ _Sauver
 ; Save
 MSG_USE
 _Utiliser
-; Use
+; _Use
 ;
 MSG_CANCEL
 A_nnuler
-; Cancel
+; _Cancel
 ;

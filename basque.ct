@@ -4,11 +4,11 @@
 ;
 MSG_TEST
 _Probatu
-; Test
+; _Test
 ;
 MSG_REVERT
 _Baliogabetu
-; Revert
+; _Revert
 ;
 MSG_SAVE
 _Gorde
@@ -16,9 +16,9 @@ _Gorde
 ; Save
 MSG_USE
 _Erabili
-; Use
+; _Use
 ;
 MSG_CANCEL
 _Deuseztu
-; Cancel
+; _Cancel
 ;

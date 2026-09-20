@@ -5,11 +5,11 @@
 ;
 MSG_TEST
 Тест
-; Test
+; _Test
 ;
 MSG_REVERT
 Отмена
-; Revert
+; _Revert
 ;
 MSG_SAVE
 Сохранить
@@ -17,9 +17,9 @@ MSG_SAVE
 ; Save
 MSG_USE
 Применить
-; Use
+; _Use
 ;
 MSG_CANCEL
 Отмена
-; Cancel
+; _Cancel
 ;

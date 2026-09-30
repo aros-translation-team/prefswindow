@@ -4,11 +4,11 @@
 ;
 MSG_TEST
 _Test
-; Test
+; _Test
 ;
 MSG_REVERT
 _Sett tilbake
-; Revert
+; _Revert
 ;
 MSG_SAVE
 _Lagre
@@ -16,9 +16,9 @@ _Lagre
 ; Save
 MSG_USE
 _Bruk
-; Use
+; _Use
 ;
 MSG_CANCEL
 _Avbryt
-; Cancel
+; _Cancel
 ;
